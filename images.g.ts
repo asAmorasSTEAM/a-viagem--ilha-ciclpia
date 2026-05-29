@@ -159,25 +159,6 @@ f f f f f e f f f f f f f . . .
 . . . . f f 8 8 8 f . . . . . . 
 . . . . . . f f f . . . . . . . 
 `;
-            case "image9":
-            case "myImage7":return img`
-b d d d d d d d d d d d d d d c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-d b b b b b b b b b b b b b b c 
-c c c c c c c c c c c c c c c a 
-`;
         }
         return null;
     })
