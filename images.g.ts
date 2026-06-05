@@ -41,25 +41,6 @@ f f f f f d f f f f f 9 9
 . . . . f f f f f f . . . 
 . . . . . . e e e . . . . 
 `;
-            case "image3":
-            case "myImage1":return img`
-. . . f f f f f . . . . . 
-. f f f f f f f f f . . . 
-. f f f f f f f f f f . . 
-f f f f f f f f f f f . . 
-6 6 6 6 6 6 6 6 6 6 6 6 6 
-9 9 f f f f f d f f f f f 
-9 f f f f f f d d f f f . 
-f f d d f 9 f d d f f . . 
-. f d d d 1 d d d f . . . 
-. f f f d d d d d f . . . 
-. . f d d d d d d f . . . 
-. . 6 6 6 6 6 6 6 f . . . 
-. . 9 9 9 9 9 9 9 f . . . 
-. . f 6 6 6 6 6 6 f . . . 
-. . . f f f f f f . . . . 
-. . . . e e e . . . . . . 
-`;
             case "image4":
             case "myImage2":return img`
 . . . . . . . . . . . . . . . . 
@@ -197,24 +178,24 @@ f f f f f e f f f f f f f . . .
 . . . . . . f 8 8 8 f f . . . . 
 . . . . . . . f f f . . . . . . 
 `;
-            case "image11":
-            case "myImage9":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . 3 . . . . . . . 
-. . . . . . 3 3 3 . . . . . . . 
-. . . . . . 3 3 3 . . . . . . . 
-. . . . . 3 3 3 3 . . . . . . . 
-. . . . . 3 3 3 . . . . . . . . 
-. . . . . 3 3 3 . . . . . . . . 
-. . . . . 3 . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
+            case "image3":
+            case "myImage1":return img`
+. . . f f f f f . . . . . 
+. f f f f f f f f f . . . 
+. f f f f f f f f f f . . 
+f f f f f f f f f f f . . 
+6 6 6 6 6 6 6 6 6 6 6 6 6 
+9 9 f f f f f d f f f f f 
+9 f f f f f f d d f f f . 
+f f d d f 9 f d d f f . . 
+. f d d d 1 f d d f . . . 
+. f f f d d d d d f . . . 
+. . f d d d d d d f . . . 
+. . 6 6 6 6 6 6 6 f . . . 
+. . 9 9 9 9 9 9 9 f . . . 
+. . f 6 6 6 6 6 6 f . . . 
+. . . f f f f f f . . . . 
+. . . . e e e . . . . . . 
 `;
         }
         return null;
