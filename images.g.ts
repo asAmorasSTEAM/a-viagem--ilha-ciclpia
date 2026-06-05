@@ -159,6 +159,44 @@ f f f f f e f f f f f f f . . .
 . . . . f f 8 8 8 f . . . . . . 
 . . . . . . f f f . . . . . . . 
 `;
+            case "image9":
+            case "myImage7":return img`
+b d d d d d d d d d d d d d d c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+d b b b b b b b b b b b b b b c 
+c c c c c c c c c c c c c c c a 
+`;
+            case "image10":
+            case "myImage8":return img`
+. . . . . . f f f f f . . . . . 
+. . . . f f f f f f f f f . . . 
+. . . . f f f f f f f f f f . . 
+. . . f f f f f f f f f f f . . 
+. . . 8 8 8 8 8 8 8 8 8 8 8 8 f 
+. . . f f f f f f f e f f f f f 
+. . . f f f f f f f e e f f f . 
+. . . f f e e f 6 f e e f f . . 
+. . . . f e d e 1 f e e f . . . 
+. . . . f f f e e e e e f . . . 
+. . . . . f e e e e e e f . . . 
+. . . . . f 8 9 9 9 9 8 f . . . 
+. . . . . f 9 9 9 9 9 9 f . . . 
+. . . . . f 6 6 6 f 6 6 f . . . 
+. . . . . . f 8 8 8 f f . . . . 
+. . . . . . . f f f . . . . . . 
+`;
         }
         return null;
     })

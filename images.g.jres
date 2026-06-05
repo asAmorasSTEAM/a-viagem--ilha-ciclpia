@@ -39,6 +39,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage6"
     },
+    "image9": {
+        "data": "hwQQABAAAADb3d3d3d3dzb27u7u7u7vLvbu7u7u7u8u9u7u7u7u7y727u7u7u7vLvbu7u7u7u8u9u7u7u7u7y727u7u7u7vLvbu7u7u7u8u9u7u7u7u7y727u7u7u7vLvbu7u7u7u8u9u7u7u7u7y727u7u7u7vLvbu7u7u7u8vMzMzMzMzMrA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage7"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Pj/AAAAAPD/+P//AAAA8P/47/7//wD///jv/Y5pD///+P/unmn4///4b+Geafj///j/7575+P//6O7unmkP8P/47u6OaQ/w//j/////AAD/+P8AAAAAAAD4DwAAAAAAAP8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage8"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
